@@ -1,0 +1,89 @@
+.home-image {
+    width: 1000px;
+    height: 400px;
+}
+
+.about-image {
+    width: 111.5px;
+    height: 150px;
+}
+
+.about-image2 {
+    width: 300px;
+    height: 450px;
+}
+
+
+nav li{
+    list-style-type:none;
+    display: inline;
+    
+}
+
+nav li a{
+    text-decoration: none;
+    color:black;
+}
+
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: baseline;
+    padding:0px 2%
+}
+
+
+.product-class {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-content: center;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.mundo-bowls {
+    width: 200px;
+    height: 150px;
+}
+
+.natureza-vase {
+    width: 200px;
+    height: 150px;
+}
+
+.feira-bowls {
+    width: 200px;
+    height: 150px;
+}
+
+.natureza-pots {
+    width: 200px;
+    height: 150px;
+}
+
+.pedra-vase {
+    width: 200px;
+    height: 150px;
+}
+
+.viaja-pots {
+    width: 200px;
+    height: 150px;
+}
+
+.servico-plates {
+    width: 200px;
+    height: 150px;
+}
+
+.campeao-vase {
+    width: 200px;
+    height: 150px;
+}
+
+.troca-bowls {
+    width: 200px;
+    height: 150px;
+}
